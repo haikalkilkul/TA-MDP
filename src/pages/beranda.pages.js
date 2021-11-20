@@ -109,7 +109,6 @@ function Beranda() {
             </View>
         </View>
     );
-
 }
 
 export default Beranda;

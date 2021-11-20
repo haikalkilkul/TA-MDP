@@ -23,6 +23,7 @@ class Navigator extends Component {
                     headerStyle: {
                         shadowOpacity: 0,
                         elevation: 0,
+                        height: 60,
                     },
 
                     headerTitle: null,
